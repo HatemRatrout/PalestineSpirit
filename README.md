@@ -33,7 +33,7 @@ When the guide loges in as a guide he can create a trip.
 - Bootstrap
 
 ## Team members:
-- Momen Kittaneh
-- Hatem Ratrout
-- Yasar Naser
-- Hadeel Qnaiby
+- Momen Kittaneh (@momenkittaneh)
+- Hatem Ratrout (@HatemRatrout)
+- Yasar Naser (@yasar-98)
+- Hadeel Qnaiby (@Hadeel404)
