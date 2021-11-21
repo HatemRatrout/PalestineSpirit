@@ -39,8 +39,3 @@ The city page also contains the most famous industries / foods / archaeological 
 - CSS
 - Bootstrap
 
-## Team members:
-- Momen Kittaneh (@momenkittaneh)
-- Hatem Ratrout (@HatemRatrout)
-- Yasar Naser (@yasar-98)
-- Hadeel Qnaiby (@Hadeel404)
